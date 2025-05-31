@@ -1,1 +1,1 @@
-## Notebooks da disciplina de Apredizado Profundo da graduação de Ciência de Dados
+## Notebooks da disciplina de Aprendizado Profundo da graduação de Ciência de Dados
